@@ -2,6 +2,15 @@
 
 ## Terminal
 
+Install software yang diperlukan
+
+```
+sudo pacman -S curl fish git tmux neovim
+```
+Konfigurasi fish shell, tmux dan neovim 
+```
+curl -sL https://git.io/fisher | fish
+```
 
 ## KDE Plasma
  
