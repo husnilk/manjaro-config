@@ -6,6 +6,7 @@ Install software yang diperlukan
 
 ```
 sudo pacman -S curl fish git tmux neovim
+sudo pacman -S python python-pip python-pynvim
 ```
 Konfigurasi fish shell, tmux dan neovim 
 ```

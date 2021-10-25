@@ -20,3 +20,4 @@ cp ./terminal/.tmux.conf.osx ~/.tmux.conf.osx
 
 mkdir -p ~/.config/nvim
 cp ./terminal/init.vim ~/.config/nvim/init.vim
+chsh /bin/fish
